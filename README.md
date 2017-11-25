@@ -10,7 +10,7 @@ https://github.com/xguru/WebDevTutorial 
 2017-11-14_html_attributes - https://www.w3schools.com/html/html_attributes.asp  
 2017-11-19_html_headings - https://www.w3schools.com/html/html_headings.asp  
 
-2017-11-25 html,css,javascript 책  
+2017-11-25 html,css,javascript 책  
 2017-11-25 do it HTML5 CSS3 책  
 
 다음 진행진도 - https://www.w3schools.com/html/html_paragraphs.asp  
