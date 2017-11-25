@@ -1,4 +1,5 @@
-[학습로드맵](https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/)    https://github.com/xguru/WebDevTutorial 
+[학습로드맵](https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/)  
+https://github.com/xguru/WebDevTutorial 
 
 # Primary goal  ![screensh](./img/html_css_js.PNG) 
 
