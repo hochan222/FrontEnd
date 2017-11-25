@@ -15,5 +15,4 @@ https://github.com/xguru/WebDevTutorial 
 
 다음 진행진도 - https://www.w3schools.com/html/html_paragraphs.asp  
 
-## [poiemaweb](http://poiemaweb.com/) 
-- - -
+## [poiemaweb](http://poiemaweb.com/) 진행사항  
