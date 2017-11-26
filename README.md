@@ -14,9 +14,10 @@ https://github.com/xguru/WebDevTutorial 
 2017-11-25_html_paragraphs - https://www.w3schools.com/html/html_paragraphs.asp  
 2017-11-26_html_styles - https://www.w3schools.com/html/html_styles.asp  
 2017-11-26_html_formatting - https://www.w3schools.com/html/html_formatting.asp  
+2017-11-26_html_quotation_elements - https://www.w3schools.com/html/html_quotation_elements.asp  
 
-다음 진행진도 - https://www.w3schools.com/html/html_quotation_elements.asp     
+다음 진행진도 - https://www.w3schools.com/html/html_comments.asp
 
-## [poiemaweb](http://poiemaweb.com/) 진행사항  
+## [poiemaweb](http://poiemaweb.com/) 진행사항  
 
 ## [codeacademy](https://www.codecademy.com/tracks/korean-web) 진행사항 
