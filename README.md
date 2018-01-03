@@ -2,6 +2,8 @@
 http://12bme.tistory.com/53  
 https://github.com/xguru/WebDevTutorial 
 
+https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함  
+
 # Primary goal  
 ![screensh](./img/html_css_js.PNG) 
 
