@@ -5,4 +5,4 @@
  * /SubPage
  * Self:InterWiki
  
-[#MoinMoin Anchor Link]
+[MoinMoin Anchor Link]
