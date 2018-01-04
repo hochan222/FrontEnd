@@ -7,8 +7,8 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 # Primary goal  
 ![screensh](./img/html_css_js.PNG) 
 
-## Tools
-* [https://codepen.io/pen/](https://codepen.io/pen/) - html,css,JS Web에서 실행  
+## Tools / 참고자료
+* [https://codepen.io/pen/](https://codepen.io/pen/) - html,css,JS Web에서 실행  
 
 
 [w3schools](https://www.w3schools.com/) 진행사항  
