@@ -1,5 +1,6 @@
-X-(  
- {{{#!python  
-# python code  
-print code.colorize("abc", 1 + 1)  
-} } }  
+* MoinMoin
+ * MoinMoin/TextFormatting
+ * MoinMoin/InstallDocs
+ * ../InstallDocs
+ * /SubPage
+ * Self:InterWiki
