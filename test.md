@@ -4,3 +4,5 @@
  * ../InstallDocs
  * /SubPage
  * Self:InterWiki
+ 
+[#MoinMoin Anchor Link]
