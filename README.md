@@ -8,7 +8,6 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 ![screensh](./img/html_css_js.PNG) 
 
 ## Tools
-- - -
 * [https://codepen.io/pen/](https://codepen.io/pen/) - html,css,JS Web에서 실행  
 
 
