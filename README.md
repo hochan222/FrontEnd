@@ -18,8 +18,9 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 2017-11-26_html_styles - https://www.w3schools.com/html/html_styles.asp  
 2017-11-26_html_formatting - https://www.w3schools.com/html/html_formatting.asp  
 2017-11-26_html_quotation_elements - https://www.w3schools.com/html/html_quotation_elements.asp  
+2018-01-04_html_comments - https://www.w3schools.com/html/html_comments.asp  
 
-다음 진행진도 - https://www.w3schools.com/html/html_comments.asp
+다음 진행진도 - https://www.w3schools.com/html/html_tables.asp  
 
 ## [poiemaweb](http://poiemaweb.com/) 진행사항  
 
