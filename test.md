@@ -1,8 +1,3 @@
-* MoinMoin
- * MoinMoin/TextFormatting
- * MoinMoin/InstallDocs
- * ../InstallDocs
- * /SubPage
- * Self:InterWiki
- 
-[MoinMoin Anchor Link]
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
