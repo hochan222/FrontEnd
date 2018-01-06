@@ -8,8 +8,12 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 ![screensh](./img/html_css_js.PNG) 
 
 ## Tools / 참고자료
-* [https://codepen.io/pen/](https://codepen.io/pen/) - html,css,JS Web에서 실행  
-* [https://speckyboy.com/top-50-css-2018/](https://speckyboy.com/top-50-css-2018/) -top-50-css-2018  
+
+* [https://codepen.io/pen/](https://codepen.io/pen/) - html,css,JS Web에서 실행  
+
+* 라이브러리 & 플러그 인  
+> [https://speckyboy.com/top-50-javascript/](https://speckyboy.com/top-50-javascript/) - Top 50 JavaScript Plugins & Libraries for 2017 > * [https://speckyboy.com/top-50-css-2018/](https://speckyboy.com/top-50-css-2018/) -top-50-css-2018  
+
 * [http://stylebootstrap.info/](http://stylebootstrap.info/) -boostrap 디자인 도우미  
 
 [w3schools](https://www.w3schools.com/) 진행사항  
