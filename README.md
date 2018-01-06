@@ -7,21 +7,6 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 # Primary goal  
 ![screensh](./img/html_css_js.PNG) 
 
-## Tools / 참고자료
-
-* [https://codepen.io/pen/](https://codepen.io/pen/) - html,css,JS Web에서 실행  
-
-* javascript
-> [https://30secondsofcode.org/#call](https://30secondsofcode.org/#collectinto) - 30 seconds of code  
-
-
-* 라이브러리 & 플러그 인  
-> [https://speckyboy.com/top-50-javascript/](https://speckyboy.com/top-50-javascript/) - Top 50 JavaScript Plugins & Libraries for 2017  
-> [https://speckyboy.com/top-50-css-2018/](https://speckyboy.com/top-50-css-2018/) -top-50-css-2018  
-
-* [https://picturepan2.github.io/instagram.css/](https://picturepan2.github.io/instagram.css/) -Instagram.css 
-* [http://stylebootstrap.info/](http://stylebootstrap.info/) -boostrap 디자인 도우미  
-
 [w3schools](https://www.w3schools.com/) 진행사항  
 ---------------------------
 2017-11-13_HTML HOME - https://www.w3schools.com/html/html_elements.asp  
