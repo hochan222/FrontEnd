@@ -12,7 +12,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 * [https://codepen.io/pen/](https://codepen.io/pen/) - html,css,JS Web에서 실행  
 
 * javascript
-> [https://30secondsofcode.org/#call]
+> [https://30secondsofcode.org/#call](https://30secondsofcode.org/#collectinto) - 30 seconds of code  
 
 
 * 라이브러리 & 플러그 인  
