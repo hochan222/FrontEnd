@@ -40,6 +40,10 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 > [https://joshua1988.github.io/web_dev/vue-or-react/](https://joshua1988.github.io/web_dev/vue-or-react/)  
 > [https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/](https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/)  
 
+## [Vue.js]()  진행사항
+- - -
+>1. [https://velopert.com/3007](https://velopert.com/3007)  
+
 
 ## [React]() 진행사항
 --------------------------- 
