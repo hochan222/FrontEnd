@@ -39,6 +39,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 > [http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html](http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html)  
 > [https://joshua1988.github.io/web_dev/vue-or-react/](https://joshua1988.github.io/web_dev/vue-or-react/)  
 > [https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/](https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/)  
+> [https://news.ycombinator.com/item?id=15999688](https://news.ycombinator.com/item?id=15999688) -comments  
 
 ## [Vue.js]()  진행사항
 >1. [https://velopert.com/3007](https://velopert.com/3007)  
