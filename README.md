@@ -58,7 +58,8 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 > [https://bootstrap-vue.js.org/](https://bootstrap-vue.js.org/) -bootstrap-vue 실습장(play)제공  
 > [http://vuejs.kr/](http://vuejs.kr/) - vue.js 한국사용자모임  
 
-
+* #### Github
+> [https://github.com/sri-study/vuejs](https://github.com/sri-study/vuejs) - vue.js 2 시작하기 - 스터디 진행  
 
 ## [React](https://reactjs.org/) 진행사항 
 1. [velopert/react-tutorial-01-outdated.md](https://gist.github.com/velopert/d76e944e13b7b0a79ff5b3e60e1b54f4)  
