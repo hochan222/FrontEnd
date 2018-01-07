@@ -36,7 +36,8 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 * [https://academy.realm.io/kr/posts/react-native/](https://academy.realm.io/kr/posts/react-native/) - react&reactive&react native  
 * React(React Native) vs Vue(Weex)  
 > [https://da-14.com/blog/vuejs-vs-react-which-javascript-framework-choose-your-project](https://da-14.com/blog/vuejs-vs-react-which-javascript-framework-choose-your-project) - VUE.JS VS REACT: WHICH JAVASCRIPT FRAMEWORK TO CHOOSE FOR YOUR PROJECT  
-> [http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html](http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html) - react vs vue  
+> [http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html](http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html)  
+> [https://joshua1988.github.io/web_dev/vue-or-react/](https://joshua1988.github.io/web_dev/vue-or-react/)  
 
 
 ## [React]() 진행사항
