@@ -1,5 +1,3 @@
-https://github.com/xguru/WebDevTutorial 
-
 https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함  
 
 ![screensh](./img/frontend-roadmap.png)  
@@ -73,7 +71,8 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 >[http://12bme.tistory.com/53](http://12bme.tistory.com/53) -학습로드맵2  
 
 * Web
-> [https://github.com/xguru/WebDevTutorial](https://github.com/xguru/WebDevTutorial) -Web beginners  
+> [https://github.com/xguru/WebDevTutorial](https://github.com/xguru/WebDevTutorial) -for Web beginners  
+
 * [https://codepen.io/pen/](https://codepen.io/pen/) - html,css,JS Web에서 실행  
 * javascript  
 > [https://30secondsofcode.org/#call](https://30secondsofcode.org/#collectinto) - 30 seconds of code  
