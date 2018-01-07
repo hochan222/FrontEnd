@@ -46,8 +46,8 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 2. [https://kr.vuejs.org/v2/guide/index.html](https://kr.vuejs.org/v2/guide/index.html) -한글공식가이드  
 3. [http://meetup.toast.com/posts/99](http://meetup.toast.com/posts/99) -전반적인상세소개  
 
->Tool_Library
->> [https://bootstrap-vue.js.org/](https://bootstrap-vue.js.org/) -bootstrap-vue 실습장(play)제공  
+>#### Tool_Library
+> [https://bootstrap-vue.js.org/](https://bootstrap-vue.js.org/) -bootstrap-vue 실습장(play)제공  
 
 
 ## [React](https://reactjs.org/) 진행사항 
