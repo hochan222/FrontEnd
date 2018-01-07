@@ -40,6 +40,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 > [https://joshua1988.github.io/web_dev/vue-or-react/](https://joshua1988.github.io/web_dev/vue-or-react/)  
 > [https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/](https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/)  
 > [https://news.ycombinator.com/item?id=15999688](https://news.ycombinator.com/item?id=15999688) -comments  
+> [http://meshlabs.ghost.io/javascript-in-2017/](http://meshlabs.ghost.io/javascript-in-2017/)  
 
 ## [Vue.js](https://vuejs.org/)  진행사항
 1. [https://velopert.com/3007](https://velopert.com/3007)  - velopert블로그  
@@ -47,6 +48,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 3. [http://meetup.toast.com/posts/99](http://meetup.toast.com/posts/99) -전반적인상세소개 
 4. [http://vuejs.kr/jekyll/update/2017/03/02/vuejs-jquery-bootstrap/](http://vuejs.kr/jekyll/update/2017/03/02/vuejs-jquery-bootstrap/) - vue.js에서 jQuery, Bootstrap 추가하여 사용하기  
 5. [https://isme2n.github.io/devlog/2017/07/19/about-vue/](https://isme2n.github.io/devlog/2017/07/19/about-vue/) -about vue 블로그  
+6. [http://niceman.tistory.com/44](http://niceman.tistory.com/44)  
 
 
 >* #### Tool_Library
