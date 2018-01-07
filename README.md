@@ -49,7 +49,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 5. [https://isme2n.github.io/devlog/2017/07/19/about-vue/](https://isme2n.github.io/devlog/2017/07/19/about-vue/) -about vue 블로그  
 6. [http://niceman.tistory.com/44](http://niceman.tistory.com/44) -기초문법배우기  
 7. [https://engineering.huiseoul.com/vue-js%EC%99%80-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-ed29bb71c6c4](https://engineering.huiseoul.com/vue-js%EC%99%80-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-ed29bb71c6c4) -vue설명  
-
+8. [https://hyc7575.github.io/2017/06/08/2017-06-08-vueJs-start/](https://hyc7575.github.io/2017/06/08/2017-06-08-vueJs-start/) - vue소개(읽을자료)  
 
 * #### Tool_Library
 > [https://codepen.io/originerd/pen/OpqqrM](https://codepen.io/originerd/pen/OpqqrM) -babel  
