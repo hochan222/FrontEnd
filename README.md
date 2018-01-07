@@ -38,6 +38,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 > [https://da-14.com/blog/vuejs-vs-react-which-javascript-framework-choose-your-project](https://da-14.com/blog/vuejs-vs-react-which-javascript-framework-choose-your-project) - VUE.JS VS REACT: WHICH JAVASCRIPT FRAMEWORK TO CHOOSE FOR YOUR PROJECT  
 > [http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html](http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html)  
 > [https://joshua1988.github.io/web_dev/vue-or-react/](https://joshua1988.github.io/web_dev/vue-or-react/)  
+> [https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/](https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/)  
 
 
 ## [React]() 진행사항
