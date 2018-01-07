@@ -72,6 +72,8 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 >[https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/](https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/) -학습로드맵  
 >[http://12bme.tistory.com/53](http://12bme.tistory.com/53) -학습로드맵2  
 
+* Web
+> [https://github.com/xguru/WebDevTutorial](https://github.com/xguru/WebDevTutorial) -Web beginners  
 * [https://codepen.io/pen/](https://codepen.io/pen/) - html,css,JS Web에서 실행  
 * javascript  
 > [https://30secondsofcode.org/#call](https://30secondsofcode.org/#collectinto) - 30 seconds of code  
