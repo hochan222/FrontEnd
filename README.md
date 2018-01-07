@@ -41,7 +41,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 > [https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/](https://joshua1988.github.io/web-development/translation/why-we-moved-from-angular2-to-vuejs/)  
 > [https://news.ycombinator.com/item?id=15999688](https://news.ycombinator.com/item?id=15999688) -comments  
 
-## [Vue.js](https://github.com/vuejs)  진행사항
+## [Vue.js](https://vuejs.org/)  진행사항
 1. [https://velopert.com/3007](https://velopert.com/3007)  - velopert블로그  
 2. [https://kr.vuejs.org/v2/guide/index.html](https://kr.vuejs.org/v2/guide/index.html) -한글공식가이드  
 3. [http://meetup.toast.com/posts/99](http://meetup.toast.com/posts/99) -전반적인상세소개  
