@@ -50,7 +50,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 6. [http://niceman.tistory.com/44](http://niceman.tistory.com/44)  
 
 
->* #### Tool_Library
+* #### Tool_Library
 > [https://codepen.io/originerd/pen/OpqqrM](https://codepen.io/originerd/pen/OpqqrM) -babel  
 > [https://bootstrap-vue.js.org/](https://bootstrap-vue.js.org/) -bootstrap-vue 실습장(play)제공  
 > [http://vuejs.kr/](http://vuejs.kr/) - vue.js 한국사용자모임  
