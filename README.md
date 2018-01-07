@@ -32,6 +32,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 ## React vs Vue vs Angular  
 * [https://kr.vuejs.org/v2/guide/comparison.html](https://kr.vuejs.org/v2/guide/comparison.html) - Vue 중심 나머지 비교  
 * [https://www.slideshare.net/GunheeLee2/angular-react-vue](https://www.slideshare.net/GunheeLee2/angular-react-vue) -목적에 맞게 Angular, React, Vue  
+* [http://jinblog.kr/191](http://jinblog.kr/191) -about vue  
 * [https://academy.realm.io/kr/posts/react-native/](https://academy.realm.io/kr/posts/react-native/) - react&reactive&react native  
 * React(React Native) vs Vue(Weex)  
 > [https://da-14.com/blog/vuejs-vs-react-which-javascript-framework-choose-your-project](https://da-14.com/blog/vuejs-vs-react-which-javascript-framework-choose-your-project) - VUE.JS VS REACT: WHICH JAVASCRIPT FRAMEWORK TO CHOOSE FOR YOUR PROJECT  
@@ -42,7 +43,12 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 > [http://meshlabs.ghost.io/javascript-in-2017/](http://meshlabs.ghost.io/javascript-in-2017/)  
 
 ## [Vue.js](https://vuejs.org/)  진행사항
-1. [https://velopert.com/3007](https://velopert.com/3007)  - velopert블로그  
+
+* https://velopert.com/3007  
+* http://forwe.tistory.com/1  
+* https://www.google.co.jp/search?q=vue.js+%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&dcr=0&ei=RTRSWoayGIOj8AX03J2wDQ&start=30&sa=N&biw=944&bih=951  
+
+1. [https://velopert.com/3007](https://velopert.com/3007)  - velopert블로그  
 2. [https://kr.vuejs.org/v2/guide/index.html](https://kr.vuejs.org/v2/guide/index.html) -한글공식가이드  
 3. [http://meetup.toast.com/posts/99](http://meetup.toast.com/posts/99) -전반적인상세소개 
 4. [http://vuejs.kr/jekyll/update/2017/03/02/vuejs-jquery-bootstrap/](http://vuejs.kr/jekyll/update/2017/03/02/vuejs-jquery-bootstrap/) - vue.js에서 jQuery, Bootstrap 추가하여 사용하기  
