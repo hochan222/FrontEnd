@@ -12,8 +12,6 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 2017-11-13_HTML HOME - https://www.w3schools.com/html/html_elements.asp  
 2017-11-14_html_attributes - https://www.w3schools.com/html/html_attributes.asp  
 2017-11-19_html_headings - https://www.w3schools.com/html/html_headings.asp  
-2017-11-25 html,css,javascript 책  
-2017-11-25 do it HTML5 CSS3 책  
 2017-11-25_html_paragraphs - https://www.w3schools.com/html/html_paragraphs.asp  
 2017-11-26_html_styles - https://www.w3schools.com/html/html_styles.asp  
 2017-11-26_html_formatting - https://www.w3schools.com/html/html_formatting.asp  
@@ -78,3 +76,6 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 * [https://picturepan2.github.io/instagram.css/](https://picturepan2.github.io/instagram.css/) -Instagram.css 
 * [http://stylebootstrap.info/](http://stylebootstrap.info/) -boostrap 디자인 도우미  
 
+## Books
+* 2017-11-25 html,css,javascript 책
+* 2017-11-25 do it HTML5 CSS3 책  
