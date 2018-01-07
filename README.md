@@ -42,7 +42,9 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 > [https://news.ycombinator.com/item?id=15999688](https://news.ycombinator.com/item?id=15999688) -comments  
 
 ## [Vue.js]()  진행사항
->1. [https://velopert.com/3007](https://velopert.com/3007)  
+1. [https://velopert.com/3007](https://velopert.com/3007)  - velopert블로그  
+2. [https://kr.vuejs.org/v2/guide/index.html](https://kr.vuejs.org/v2/guide/index.html) -한글공식가이드  
+
 
 
 ## [React]() 진행사항 
