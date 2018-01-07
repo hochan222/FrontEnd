@@ -48,12 +48,12 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 
 
 ## [React]() 진행사항 
->1. [velopert/react-tutorial-01-outdated.md](https://gist.github.com/velopert/d76e944e13b7b0a79ff5b3e60e1b54f4)  
->2. [g6ling react-native-tutorial-korean](https://www.gitbook.com/book/g6ling/react-native-tutorial-korean/details)  
->3. [안녕, 리액트(Hello, React)http://blog.gaerae.com/2016/04/hello-react.html](http://blog.gaerae.com/2016/04/hello-react.html)  
->4. [https://github.com/reactkr/learn-react-in-korean](https://github.com/reactkr/learn-react-in-korean)  
->5. [react_pdf_30days](https://www.fullstackreact.com/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf)  
->6. [https://react.semantic-ui.com/introduction](https://react.semantic-ui.com/introduction)  
+1. [velopert/react-tutorial-01-outdated.md](https://gist.github.com/velopert/d76e944e13b7b0a79ff5b3e60e1b54f4)  
+2. [g6ling react-native-tutorial-korean](https://www.gitbook.com/book/g6ling/react-native-tutorial-korean/details)  
+3. [안녕, 리액트(Hello, React)http://blog.gaerae.com/2016/04/hello-react.html](http://blog.gaerae.com/2016/04/hello-react.html)  
+4. [https://github.com/reactkr/learn-react-in-korean](https://github.com/reactkr/learn-react-in-korean)  
+5. [react_pdf_30days](https://www.fullstackreact.com/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf)  
+6. [https://react.semantic-ui.com/introduction](https://react.semantic-ui.com/introduction)  
 
 - - -
 - - -
