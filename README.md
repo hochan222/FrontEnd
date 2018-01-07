@@ -4,6 +4,8 @@ https://github.com/xguru/WebDevTutorial 
 
 https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함  
 
+![screensh](./img/frontend-roadmap.PNG)  
+
 # Primary goal  
 ![screensh](./img/html_css_js.PNG) 
 
