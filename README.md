@@ -9,7 +9,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 
 [w3schools](https://www.w3schools.com/) 진행사항  
 ---------------------------
-### HTML
+### About HTML
 2017-11-13_HTML HOME - https://www.w3schools.com/html/html_elements.asp  
 2017-11-14_html_attributes - https://www.w3schools.com/html/html_attributes.asp  
 2017-11-19_html_headings - https://www.w3schools.com/html/html_headings.asp  
@@ -18,8 +18,11 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 2017-11-26_html_formatting - https://www.w3schools.com/html/html_formatting.asp  
 2017-11-26_html_quotation_elements - https://www.w3schools.com/html/html_quotation_elements.asp  
 2018-01-04_html_comments - https://www.w3schools.com/html/html_comments.asp  
+2018-01-04_html_head - https://www.w3schools.com/html/html_head.asp
 
-다음 진행진도 - https://www.w3schools.com/html/html_tables.asp  
+다음 진행진도 -  
+
+### About Css
 
 ## [poiemaweb](http://poiemaweb.com/) 진행사항  
 
