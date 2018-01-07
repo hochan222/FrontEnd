@@ -33,6 +33,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 - - -
 * [https://kr.vuejs.org/v2/guide/comparison.html](https://kr.vuejs.org/v2/guide/comparison.html) - Vue 중심 나머지 비교  
 * [https://www.slideshare.net/GunheeLee2/angular-react-vue](https://www.slideshare.net/GunheeLee2/angular-react-vue) -목적에 맞게 Angular, React, Vue  
+* [https://academy.realm.io/kr/posts/react-native/](https://academy.realm.io/kr/posts/react-native/) - react&reactive&react native  
 * React Native vs Weex(Vue)    
 
 ## [React]() 진행사항
