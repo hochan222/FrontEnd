@@ -70,8 +70,8 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 - - -
 - - -
 ## Tools / 참고자료
-> * [https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/](https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/) -학습로드맵  
-> * [http://12bme.tistory.com/53](http://12bme.tistory.com/53) -학습로드맵2  
+>[https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/](https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/) -학습로드맵  
+>[http://12bme.tistory.com/53](http://12bme.tistory.com/53) -학습로드맵2  
 
 * [https://codepen.io/pen/](https://codepen.io/pen/) - html,css,JS Web에서 실행  
 * javascript  
