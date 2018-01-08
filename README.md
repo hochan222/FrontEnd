@@ -67,11 +67,13 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 8. [https://hyc7575.github.io/2017/06/08/2017-06-08-vueJs-start/](https://hyc7575.github.io/2017/06/08/2017-06-08-vueJs-start/) - vue소개(읽을자료)  
 9. [https://joshua1988.github.io/web_dev/vuejs-tutorial-for-beginner/](https://joshua1988.github.io/web_dev/vuejs-tutorial-for-beginner/) -Vue.js 입문서 프론트엔드 개발자를 위한 CAPTAIN_PANGYO  
 10. [https://blog.storyg.co/vue-js-posts/todos-tutorial](https://blog.storyg.co/vue-js-posts/todos-tutorial) - 입문소개 및 TODO만들기  
+
 * #### Tool_Library
 > [https://codepen.io/originerd/pen/OpqqrM](https://codepen.io/originerd/pen/OpqqrM) -babel  
 > [https://codepen.io/small/pen/OgMRyZ](https://codepen.io/small/pen/OgMRyZ)  
 > [https://bootstrap-vue.js.org/](https://bootstrap-vue.js.org/) -bootstrap-vue 실습장(play)제공  
 > [http://vuejs.kr/](http://vuejs.kr/) - vue.js 한국사용자모임  
+> [https://vuejsexamples.com/](https://vuejsexamples.com/) - vue.js example  
 
 * #### Github
 > [https://github.com/sri-study/vuejs](https://github.com/sri-study/vuejs) - vue.js 2 시작하기 - 스터디 진행  
