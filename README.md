@@ -49,8 +49,10 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 1. https://www.google.co.jp/search?q=vue.js+%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&dcr=0&ei=RTRSWoayGIOj8AX03J2wDQ&start=30&sa=N&biw=944&bih=951  
 2. https://velopert.com/3007  
 3. http://forwe.tistory.com/1  
+4. https://taegon.kim/archives/6690  -github가 vue를 선택한 이유  
 
-* #### Learn  
+
+* #### Learn  
 1. [https://velopert.com/3007](https://velopert.com/3007)  - velopert블로그  
 2. [https://kr.vuejs.org/v2/guide/index.html](https://kr.vuejs.org/v2/guide/index.html) -한글공식가이드  
 > https://vue-loader.vuejs.org/kr/ -vue-loader는 무엇인가요  
