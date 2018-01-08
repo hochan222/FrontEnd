@@ -53,6 +53,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 * #### Learn  
 1. [https://velopert.com/3007](https://velopert.com/3007)  - velopert블로그  
 2. [https://kr.vuejs.org/v2/guide/index.html](https://kr.vuejs.org/v2/guide/index.html) -한글공식가이드  
+> https://vue-loader.vuejs.org/kr/ -vue-loader는 무엇인가요  
 3. [http://meetup.toast.com/posts/99](http://meetup.toast.com/posts/99) -전반적인상세소개 
 4. [http://vuejs.kr/jekyll/update/2017/03/02/vuejs-jquery-bootstrap/](http://vuejs.kr/jekyll/update/2017/03/02/vuejs-jquery-bootstrap/) - vue.js에서 jQuery, Bootstrap 추가하여 사용하기  
 5. [https://isme2n.github.io/devlog/2017/07/19/about-vue/](https://isme2n.github.io/devlog/2017/07/19/about-vue/) -about vue 블로그  
