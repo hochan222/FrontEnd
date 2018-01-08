@@ -90,6 +90,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 >[https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/](https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/) -학습로드맵  
 >[http://12bme.tistory.com/53](http://12bme.tistory.com/53) -학습로드맵2  
 >[http://takeuu.tistory.com/](http://takeuu.tistory.com/) -JS목표  
+>[http://han41858.tistory.com/27](http://han41858.tistory.com/27) -2017전체적인목표  
 
 * Web
 > [https://github.com/xguru/WebDevTutorial](https://github.com/xguru/WebDevTutorial) -for Web beginners  
