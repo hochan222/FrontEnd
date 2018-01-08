@@ -46,14 +46,12 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 ## [Vue.js](https://vuejs.org/)  진행사항
 
 * #### INFO  
-1. https://www.google.co.jp/search?q=vue.js+%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&dcr=0&ei=RTRSWoayGIOj8AX03J2wDQ&start=30&sa=N&biw=944&bih=951   
+1. https://hackya.com/kr/vue-js-%EA%B0%80-react-js-%EB%A5%BC-%EC%A0%9C%EA%BC%88%EB%8B%A4/ - Vue.js 가 React.js 를 제꼈다!!  
 2. https://velopert.com/3007  
 3. http://forwe.tistory.com/1  
 4. https://taegon.kim/archives/6690  -github가 vue를 선택한 이유  
 5. http://blog.jeonghwan.net/vue/2017/03/27/vue.html  
 6. https://blog.kesuskim.com/2017/03/thoughts-of-vue-js/ -vue에 대한생각  
-7. https://hackya.com/kr/vue-js-%EA%B0%80-react-js-%EB%A5%BC-%EC%A0%9C%EA%BC%88%EB%8B%A4/ - Vue.js 가 React.js 를 제꼈다!!  
-
 
 * #### Learn  
 1. [https://velopert.com/3007](https://velopert.com/3007)  - velopert블로그  
