@@ -17,8 +17,9 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 2017-11-26_html_quotation_elements - https://www.w3schools.com/html/html_quotation_elements.asp  
 2018-01-04_html_comments - https://www.w3schools.com/html/html_comments.asp  
 2018-01-07_html_filepaths - https://www.w3schools.com/html/html_filepaths.asp  
+2018-01-08_html_forms - https://www.w3schools.com/html/html_forms.asp  
 
-다음 진행진도 -  html_head - https://www.w3schools.com/html/html_head.asp  
+다음 진행진도 -  https://www.w3schools.com/html/html_form_elements.asp  
 
 ### About Css
 
