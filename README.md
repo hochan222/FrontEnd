@@ -51,7 +51,8 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 3. http://forwe.tistory.com/1  
 4. https://taegon.kim/archives/6690  -github가 vue를 선택한 이유  
 5. http://blog.jeonghwan.net/vue/2017/03/27/vue.html  
-6. 
+6. https://blog.kesuskim.com/2017/03/thoughts-of-vue-js/ -vue에 대한생각  
+
 
 * #### Learn  
 1. [https://velopert.com/3007](https://velopert.com/3007)  - velopert블로그  
