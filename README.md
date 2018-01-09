@@ -86,6 +86,10 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 
 - - -
 - - -
+## [NW.JS vs Electron]() 비교
+
+1. (http://www.adminschool.net/wiki/doku.php?id=desktop:io)[http://www.adminschool.net/wiki/doku.php?id=desktop:io]  
+
 ## [NW.js](https://nwjs.io/) 진행사항
 
 * #### info  
