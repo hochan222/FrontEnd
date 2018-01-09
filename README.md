@@ -144,21 +144,22 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 >[http://boycoding.tistory.com/66](http://boycoding.tistory.com/66) -웹개발, 2016년 트렌드와 전망  
 
 
-* Web
+* #### Web
 > [https://github.com/xguru/WebDevTutorial](https://github.com/xguru/WebDevTutorial) -for Web beginners  
 
 * [https://codepen.io/pen/](https://codepen.io/pen/) - html,css,JS Web에서 실행  
-* javascript  
+
+* #### javascript  
 > [https://30secondsofcode.org/#call](https://30secondsofcode.org/#collectinto) - 30 seconds of code  
 > [http://ahnheejong.name/articles/ecmascript-tc39/](http://ahnheejong.name/articles/ecmascript-tc39/) - ECMAScript,tc39  
 > [https://frontendchecklist.io/](https://frontendchecklist.io/) - FrontEnd 명세  
 > [https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/][https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/] -프런트엔드 치트시트  
 > [http://tech.gitple.io/2017/11/30/gitple-techstack-frontend-md/](http://tech.gitple.io/2017/11/30/gitple-techstack-frontend-md/) -깃플 기술스택  
 
-* 공식문서 번역  
+* #### 공식문서 번역  
 > [http://wikibook.co.kr/article/twitter-weekly-2015-41st/](http://wikibook.co.kr/article/twitter-weekly-2015-41st/) -Web 전반에걸친 정리  
 > [https://nolboo.kim/trans/](https://nolboo.kim/trans/) -미쳤다.. 모든번역된글 여기다있다...  
-* 라이브러리 & 플러그 인  
+* #### 라이브러리 & 플러그 인  
 > [https://speckyboy.com/top-50-javascript/](https://speckyboy.com/top-50-javascript/) - Top 50 JavaScript Plugins & Libraries for 2017   
 > [https://speckyboy.com/top-50-css-2018/](https://speckyboy.com/top-50-css-2018/) -top-50-css-2018  
 > [https://codepen.io/2016/popular/pens/#](https://codepen.io/2016/popular/pens/#) -2016_codepen_popular_Top100  
@@ -169,6 +170,8 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 * [https://learngitbranching.js.org/](https://learngitbranching.js.org/) - Git 그래픽으로배우기  
 * [https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f) -11-vue-js-component-libraries-you-should-know-in-2018  
 
+* #### icon
+1. [https://feathericons.com/](https://feathericons.com/)  
 
 ## Books
 * 2017-11-25 html,css,javascript 책
