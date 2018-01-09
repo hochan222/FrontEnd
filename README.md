@@ -133,3 +133,6 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 ## Books
 * 2017-11-25 html,css,javascript 책
 * 2017-11-25 do it HTML5 CSS3 책  
+
+## 용어
+1. [https://www.kicassl.com/codesigncert/cscert/formCsCert.sg](https://www.kicassl.com/codesigncert/cscert/formCsCert.sg) -CODESIGN 인증서란  
