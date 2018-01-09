@@ -134,6 +134,10 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 * javascript  
 > [https://30secondsofcode.org/#call](https://30secondsofcode.org/#collectinto) - 30 seconds of code  
 > [http://ahnheejong.name/articles/ecmascript-tc39/](http://ahnheejong.name/articles/ecmascript-tc39/) - ECMAScript,tc39  
+
+* 공식문서 번역  
+> [http://wikibook.co.kr/article/twitter-weekly-2015-41st/](http://wikibook.co.kr/article/twitter-weekly-2015-41st/) -html,css,js  
+
 * 라이브러리 & 플러그 인  
 > [https://speckyboy.com/top-50-javascript/](https://speckyboy.com/top-50-javascript/) - Top 50 JavaScript Plugins & Libraries for 2017   
 > [https://speckyboy.com/top-50-css-2018/](https://speckyboy.com/top-50-css-2018/) -top-50-css-2018  
