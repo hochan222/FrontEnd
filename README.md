@@ -104,6 +104,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 
 * #### 발표자료  
 1. [http://playnode.io/2016/slides/electron-react-webpack.pdf](http://playnode.io/2016/slides/electron-react-webpack.pdf) -Junyoung Choi _github.com/Rokt33r  
+> https://github.com/mano-lab/Inpad - Gitpages CMS버젼  
 
 
 - - -
