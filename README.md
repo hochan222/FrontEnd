@@ -141,6 +141,8 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 * javascript  
 > [https://30secondsofcode.org/#call](https://30secondsofcode.org/#collectinto) - 30 seconds of code  
 > [http://ahnheejong.name/articles/ecmascript-tc39/](http://ahnheejong.name/articles/ecmascript-tc39/) - ECMAScript,tc39  
+> [https://frontendchecklist.io/](https://frontendchecklist.io/) - FrontEnd 명세  
+
 
 * 공식문서 번역  
 > [http://wikibook.co.kr/article/twitter-weekly-2015-41st/](http://wikibook.co.kr/article/twitter-weekly-2015-41st/) -Web 전반에걸친 정리  
