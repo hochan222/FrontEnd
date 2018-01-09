@@ -42,6 +42,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 - - -
 - - -
 ## React vs Vue vs Angular  
+* [https://www.slideshare.net/KennethCeyer/gdg-devfest-2017-seoul-82177288](https://www.slideshare.net/KennethCeyer/gdg-devfest-2017-seoul-82177288) - 프레임워크비교  
 * [https://kr.vuejs.org/v2/guide/comparison.html](https://kr.vuejs.org/v2/guide/comparison.html) - Vue 중심 나머지 비교  
 * [https://www.slideshare.net/GunheeLee2/angular-react-vue](https://www.slideshare.net/GunheeLee2/angular-react-vue) -목적에 맞게 Angular, React, Vue  
 * [http://jinblog.kr/191](http://jinblog.kr/191) -about vue  
