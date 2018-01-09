@@ -30,7 +30,10 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 ## [생활코딩](https://opentutorials.org/course/1)  진행사항
 
 ### Intro  
-2018_01_09 - https://opentutorials.org/course/1  
+2018_01_09 - https://opentutorials.org/course/1  -전체 intro  
+
+* #### 웹 애플리케이션 만들기  
+2018_01_09 - https://opentutorials.org/course/1688 -intro  
 
 - - -
 - - -
