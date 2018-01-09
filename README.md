@@ -91,7 +91,14 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 * #### info  
 1. [https://www.slideshare.net/deview/123-electron](https://www.slideshare.net/deview/123-electron) -electron 소개 김성훈  
 2. [http://blog.dramancompany.com/2015/12/electron%EC%9C%BC%EB%A1%9C-%EC%9B%B9-%EC%95%B1-%EB%A7%8C%EB%93%A4%EB%93%AF-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0/](http://blog.dramancompany.com/2015/12/electron%EC%9C%BC%EB%A1%9C-%EC%9B%B9-%EC%95%B1-%EB%A7%8C%EB%93%A4%EB%93%AF-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0/) - electron 소개(웹앱만들듯데스트탑앱만들기)  
-3. 
+3. [http://electron.ebookchain.org/ko-KR/](http://electron.ebookchain.org/ko-KR/)  
+
+
+* #### Tool_Library
+
+* #### 발표자료  
+1. [http://playnode.io/2016/slides/electron-react-webpack.pdf](http://playnode.io/2016/slides/electron-react-webpack.pdf) -Junyoung Choi _github.com/Rokt33r  
+
 
 - - -
 - - -
