@@ -144,7 +144,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 > [https://nolboo.kim/trans/](https://nolboo.kim/trans/) -미쳤다.. 모든번역된글 여기다있다...  
 * 라이브러리 & 플러그 인  
 > [https://speckyboy.com/top-50-javascript/](https://speckyboy.com/top-50-javascript/) - Top 50 JavaScript Plugins & Libraries for 2017   
-> [https://speckyboy.com/top-50-css-2018/](https://speckyboy.com/top-50-css-2018/) -top-50-css-2018  
+> [https://speckyboy.com/top-50-css-2018/](https://speckyboy.com/top-50-css-2018/) -top-50-css-2018  
 > [https://codepen.io/2016/popular/pens/#](https://codepen.io/2016/popular/pens/#) -2016_codepen_popular_Top100  
 
 * [https://picturepan2.github.io/instagram.css/](https://picturepan2.github.io/instagram.css/) -Instagram.css 
