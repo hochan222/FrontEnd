@@ -42,6 +42,10 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 - - -
 ## [Bootstrap](http://bootstrapk.com/getting-started/) 진행사항  
 
+* #### info
+1. [https://bootstrapstudio.io/](https://bootstrapstudio.io/)  -개발툴  
+
+
 ## [codewars](https://www.codewars.com/) -(알고리즘)  
 
 - - -
