@@ -166,6 +166,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 * [https://picturepan2.github.io/instagram.css/](https://picturepan2.github.io/instagram.css/) -Instagram.css 
 * [http://stylebootstrap.info/](http://stylebootstrap.info/) -boostrap 디자인 도우미  
 * [http://yoksel.github.io/flex-cheatsheet/#flex-direction](http://yoksel.github.io/flex-cheatsheet/#flex-direction) -화면분할  
+* [https://learngitbranching.js.org/](https://learngitbranching.js.org/) - Git 그래픽으로배우기  
 
 
 ## Books
