@@ -101,7 +101,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 4. [https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%A0_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)](https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%A0_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)) -wiki  
 
 * #### Learn
-1. [http://cionman.tistory.com/7](http://cionman.tistory.com/7)  
+1. [http://cionman.tistory.com/7](http://cionman.tistory.com/7)  
 
 
 * #### Tool_Library
@@ -110,8 +110,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 1. [http://playnode.io/2016/slides/electron-react-webpack.pdf](http://playnode.io/2016/slides/electron-react-webpack.pdf) -Junyoung Choi _github.com/Rokt33r  
 > https://github.com/mano-lab/Inpad - Gitpages CMS버젼  
 2. [https://www.slideshare.net/ssusercf5d12/electron-73940508](https://www.slideshare.net/ssusercf5d12/electron-73940508) -소개 ABCD한성일  
-3.
-
+3. [https://aboutcoding.github.io/starting-electron-slide/#/](https://aboutcoding.github.io/starting-electron-slide/#/) -abcd김찬빈(Good)  
 
 - - -
 - - -
