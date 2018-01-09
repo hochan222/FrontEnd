@@ -23,6 +23,8 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 
 ### About Css
 
+## [velopert](https://velopert.com/) 진행사항  
+
 ## [poiemaweb](http://poiemaweb.com/) 진행사항  
 
 ## [codeacademy](https://www.codecademy.com/tracks/korean-web) 진행사항  
@@ -42,6 +44,9 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 #### 웹 애플리케이션 만들기  
 2018_01_09 - https://opentutorials.org/course/1688 -intro  
 2018_01_09 - https://opentutorials.org/course/1688/9331 -웹 애플리케이션을 만드는 순서  
+
+#### HTML
+2018_01_09 - https://opentutorials.org/course/3084/18438 - 프로젝트동기  
 
 - - -
 ## [Bootstrap](http://bootstrapk.com/getting-started/) 진행사항  
