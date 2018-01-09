@@ -113,6 +113,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 >[http://12bme.tistory.com/53](http://12bme.tistory.com/53) -학습로드맵2  
 >[http://takeuu.tistory.com/](http://takeuu.tistory.com/) -JS목표  
 >[http://han41858.tistory.com/27](http://han41858.tistory.com/27) -2017전체적인목표  
+>[http://d2.naver.com/helloworld/3618177](http://d2.naver.com/helloworld/3618177) -2016년과 그후 javascript의 동향  
 
 * Web
 > [https://github.com/xguru/WebDevTutorial](https://github.com/xguru/WebDevTutorial) -for Web beginners  
