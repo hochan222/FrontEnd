@@ -36,7 +36,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 2018_01_09 - https://opentutorials.org/course/1688 -intro  
 
 - - -
-## [Bootstrap](http://bootstrapk.com/getting-started/)
+## [Bootstrap](http://bootstrapk.com/getting-started/) 진행사항  
 
 
 - - -
