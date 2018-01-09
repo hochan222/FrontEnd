@@ -32,7 +32,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 ### Intro  
 2018_01_09 - https://opentutorials.org/course/1  -전체 intro  
 
-* #### 웹 애플리케이션 만들기  
+#### 웹 애플리케이션 만들기  
 2018_01_09 - https://opentutorials.org/course/1688 -intro  
 
 - - -
