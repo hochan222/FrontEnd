@@ -86,6 +86,12 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 
 - - -
 - - -
+## [NW.js]() 진행사항
+
+* #### info  
+1. [https://tyle.io/blog/67](https://tyle.io/blog/67) -NW.js vs electron  
+
+
 ## [Electron]() 진행사항
 
 * #### info  
