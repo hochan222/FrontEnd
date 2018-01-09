@@ -167,6 +167,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 * [http://stylebootstrap.info/](http://stylebootstrap.info/) -boostrap 디자인 도우미  
 * [http://yoksel.github.io/flex-cheatsheet/#flex-direction](http://yoksel.github.io/flex-cheatsheet/#flex-direction) -화면분할  
 * [https://learngitbranching.js.org/](https://learngitbranching.js.org/) - Git 그래픽으로배우기  
+* [https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f) -11-vue-js-component-libraries-you-should-know-in-2018  
 
 
 ## Books
