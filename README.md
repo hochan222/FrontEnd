@@ -29,7 +29,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 
 ## [생활코딩](https://opentutorials.org/course/1)  진행사항
 
-* ### Intro  
+### Intro  
 2018_01_09 - https://opentutorials.org/course/1  
 
 - - -
