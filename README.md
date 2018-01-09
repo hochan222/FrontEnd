@@ -100,6 +100,9 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 3. [http://electron.ebookchain.org/ko-KR/](http://electron.ebookchain.org/ko-KR/)  
 4. [https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%A0_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)](https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%A0_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)) -wiki  
 
+* #### Learn
+1. [http://cionman.tistory.com/7](http://cionman.tistory.com/7)  
+
 
 * #### Tool_Library
 
