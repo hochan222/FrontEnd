@@ -44,7 +44,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 
 * #### info
 1. [https://bootstrapstudio.io/](https://bootstrapstudio.io/)  -개발툴  
-
+2. [https://bootstrap.build/](https://bootstrap.build/)  
 
 ## [codewars](https://www.codewars.com/) -(알고리즘)  
 
