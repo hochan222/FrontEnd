@@ -92,7 +92,7 @@ https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함
 1. [https://tyle.io/blog/67](https://tyle.io/blog/67) -NW.js vs electron  
 
 
-## [Electron]() 진행사항
+## [Electron](https://electronjs.org/) 진행사항
 
 * #### info  
 1. [https://www.slideshare.net/deview/123-electron](https://www.slideshare.net/deview/123-electron) -electron 소개 김성훈  
