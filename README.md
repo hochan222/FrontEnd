@@ -24,6 +24,7 @@
 * [http://ko.learnlayout.com/toc.html](http://ko.learnlayout.com/toc.html) -css layout  
 * [http://martian36.tistory.com/category/CSS](http://martian36.tistory.com/category/CSS)  
 
+
 ## [velopert](https://velopert.com/) 진행사항  
 
 ## [poiemaweb](http://poiemaweb.com/) 진행사항  
@@ -48,6 +49,10 @@
 
 #### HTML
 2018_01_09 - https://opentutorials.org/course/3084/18438 - 프로젝트동기  
+
+#### CSS
+2018_01_10 - https://opentutorials.org/course/3086 -css intro  
+
 
 - - -
 ## [Bootstrap](http://bootstrapk.com/getting-started/) 진행사항  
