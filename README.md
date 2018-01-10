@@ -53,7 +53,7 @@
 2018_01_10 - https://opentutorials.org/course/3084/18899 - 부록 : 코드의 힘 - 방문자 분석기  
 
 #### CSS (완료)  
-2018_01_10 - https://opentutorials.org/course/3086 -css intro  
+2018_01_10 - https://opentutorials.org/course/3086 -css intro  
 2018_01_10 - https://opentutorials.org/course/3086/18333 -수업을 마치며  
 
 - - -
