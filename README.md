@@ -40,7 +40,7 @@
 
 ## [생활코딩](https://opentutorials.org/course/1)  진행사항
 
-### Intro (완료)  
+#### Intro (완료)  
 2018_01_09 - https://opentutorials.org/course/1  -전체 intro  
 
 #### 웹 애플리케이션 만들기  
