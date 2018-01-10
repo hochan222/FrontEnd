@@ -49,8 +49,8 @@
 
 #### HTML (완료)
 
-    2018_01_09 - https://opentutorials.org/course/3084/18438 - 프로젝트동기  
-    2018_01_10 - https://opentutorials.org/course/3084/18899 - 부록 : 코드의 힘 - 방문자 분석기  
+2018_01_09 - https://opentutorials.org/course/3084/18438 - 프로젝트동기  
+2018_01_10 - https://opentutorials.org/course/3084/18899 - 부록 : 코드의 힘 - 방문자 분석기  
 
 #### CSS
 2018_01_10 - https://opentutorials.org/course/3086 -css intro  
