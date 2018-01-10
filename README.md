@@ -55,9 +55,11 @@
 2018_01_10 - https://opentutorials.org/course/3086 -css intro  
 2018_01_10 - https://opentutorials.org/course/3086/18333 -수업을 마치며  
 
-#### JavaScript  
+#### JavaScript_1  
 2018_01_10 - https://opentutorials.org/course/3085 -WEB2_JavaScript  
 
+#### JavaScript_2
+2018_01_10 - https://opentutorials.org/course/743 - JavaScript  
 
 
 - - -
