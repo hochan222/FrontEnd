@@ -1,4 +1,3 @@
-https://velopert.com/about <<이사ㄹㅏㅁ 괜춘함  
 
 ![screensh](./img/frontend-roadmap.png)  
 
