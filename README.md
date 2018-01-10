@@ -48,8 +48,10 @@
 2018_01_09 - https://opentutorials.org/course/1688/9331 -웹 애플리케이션을 만드는 순서  
 
 #### HTML (완료)
-    2018_01_09 - https://opentutorials.org/course/3084/18438 - 프로젝트동기  
+
+    2018_01_09 - https://opentutorials.org/course/3084/18438 - 프로젝트동기  
     2018_01_10 - https://opentutorials.org/course/3084/18899 - 부록 : 코드의 힘 - 방문자 분석기  
+
 #### CSS
 2018_01_10 - https://opentutorials.org/course/3086 -css intro  
 
