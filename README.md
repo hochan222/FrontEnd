@@ -21,6 +21,8 @@
 다음 진행진도 -  https://www.w3schools.com/html/html_form_elements.asp  
 
 ### About Css
+* [http://ko.learnlayout.com/toc.html](http://ko.learnlayout.com/toc.html) -css layout  
+* [http://martian36.tistory.com/category/CSS](http://martian36.tistory.com/category/CSS)  
 
 ## [velopert](https://velopert.com/) 진행사항  
 
