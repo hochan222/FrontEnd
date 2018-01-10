@@ -186,6 +186,8 @@
 * [https://learngitbranching.js.org/](https://learngitbranching.js.org/) - Git 그래픽으로배우기  
 * [https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f) -11-vue-js-component-libraries-you-should-know-in-2018  
 * [http://korywakefield.com/iota/](http://korywakefield.com/iota/) -반응형 css 미니 프레임워크  
+* [http://vrpano.kr/bbs/board.php?bo_table=developer_tool&page=3&page=1](http://vrpano.kr/bbs/board.php?bo_table=developer_tool&page=3&page=1) -다기능블로그  
+
 
 * #### icon
 1. [https://feathericons.com/](https://feathericons.com/)  
