@@ -48,13 +48,17 @@
 2018_01_09 - https://opentutorials.org/course/1688/9331 -웹 애플리케이션을 만드는 순서  
 
 #### HTML (완료)
-
 2018_01_09 - https://opentutorials.org/course/3084/18438 - 프로젝트동기  
 2018_01_10 - https://opentutorials.org/course/3084/18899 - 부록 : 코드의 힘 - 방문자 분석기  
 
 #### CSS (완료)  
 2018_01_10 - https://opentutorials.org/course/3086 -css intro  
 2018_01_10 - https://opentutorials.org/course/3086/18333 -수업을 마치며  
+
+#### JavaScript  
+2018_01_10 - https://opentutorials.org/course/3085 -WEB2_JavaScript  
+
+
 
 - - -
 ## [Bootstrap](http://bootstrapk.com/getting-started/) 진행사항  
