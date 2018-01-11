@@ -1,6 +1,8 @@
 
 ![screensh](./img/frontend-roadmap.png)  
 
+1. [https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425) -2018_javascript_trends  
+
 # Primary goal  
 ![screensh](./img/html_css_js.PNG) 
 
