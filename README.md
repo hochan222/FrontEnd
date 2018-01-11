@@ -59,6 +59,8 @@
 
 #### JavaScript_1  
 2018_01_10 - https://opentutorials.org/course/3085 -WEB2_JavaScript  
+2018_01_11 - https://opentutorials.org/course/3085/18883 -함수의 활용  
+
 
 #### JavaScript_2
 2018_01_10 - https://opentutorials.org/course/743 - JavaScript  
