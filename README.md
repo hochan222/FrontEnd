@@ -237,6 +237,8 @@
 * 2017-11-25 html,css,javascript 책
 * 2017-11-25 do it HTML5 CSS3 책  
 
+* [디자이너가 묻고 개발자가 답하는 웹 이야기](http://book.naver.com/bookdb/price.nhn?bid=12743985) -무료  
+
 ## 용어
 1. [https://www.kicassl.com/codesigncert/cscert/formCsCert.sg](https://www.kicassl.com/codesigncert/cscert/formCsCert.sg) -CODESIGN 인증서란  
 2. [weex](https://weex.apache.org/) -Weex는 알리바바에서 지원하고 있는 모바일앱 프레임워크입니다. Vue.js와 함께 사용이 가능하며, Ionic이나 React Native 보다 상대적으로 러닝 커브가 짧은 편입니다. 또한 HTML, CSS, JavaScript를 사용하여 안드로이드와 아이폰에 대응되는 앱을 동시에 제작할 수 있습니다.  
