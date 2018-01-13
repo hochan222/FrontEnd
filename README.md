@@ -39,6 +39,7 @@
 
 ## [freecodecamp](https://www.freecodecamp.org/)  진행사항  
 
+## [Zerocho</>](https://www.zerocho.com/category/JavaScript) 진행사항  
 
 ## [생활코딩](https://opentutorials.org/course/1)  진행사항
 
@@ -74,6 +75,11 @@
 2. [https://bootstrap.build/](https://bootstrap.build/)  
 
 ## [codewars](https://www.codewars.com/) -(알고리즘)  
+
+## [Webpack]() 진행사항  
+
+* #### info
+1. [https://hjlog.me/post/117](https://hjlog.me/post/117) -what is webpack(블로그 실예)  
 
 - - -
 - - -
