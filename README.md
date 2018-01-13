@@ -76,7 +76,7 @@
 
 ## [codewars](https://www.codewars.com/) -(알고리즘)  
 
-## [Webpack]() 진행사항  
+## [Webpack](https://webpack.js.org/) 진행사항  
 
 * #### info
 1. [https://hjlog.me/post/117](https://hjlog.me/post/117) -what is webpack(블로그 실예)  
