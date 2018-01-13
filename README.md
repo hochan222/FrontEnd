@@ -81,6 +81,8 @@
 * #### info
 1. [https://hjlog.me/post/117](https://hjlog.me/post/117) -what is webpack(블로그 실예)  
 2. [https://hyunseob.github.io/2016/04/03/webpack-practical-guide/](https://hyunseob.github.io/2016/04/03/webpack-practical-guide/) -DailyEngineering 블로그  
+3. [http://d2.naver.com/helloworld/0239818](http://d2.naver.com/helloworld/0239818) -NAVER_D2  
+
 
 - - -
 - - -
