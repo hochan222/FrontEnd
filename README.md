@@ -1,5 +1,3 @@
-https://github.com/js-jsm/dsa  
-https://edu.goorm.io/lecture/332/todo-%EC%95%B1%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-node-js-express-bootstrap-jquery  
 
 ![screensh](./img/frontend-roadmap.png)  
 
@@ -95,8 +93,6 @@ https://edu.goorm.io/lecture/332/todo-%EC%95%B1%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%
 1. [https://bootstrapstudio.io/](https://bootstrapstudio.io/)  -개발툴  
 2. [https://bootstrap.build/](https://bootstrap.build/)  
 
-## [codewars](https://www.codewars.com/) -(알고리즘)  
-
 ## [Sass(Scss)](http://sass-lang.com/) -진행사항  
 * #### info
 1. [https://designmeme.github.io/ko/blog/write-sass-with-scss/](https://designmeme.github.io/ko/blog/write-sass-with-scss/) -sass보다 scss를 쓰는이유  
@@ -124,6 +120,10 @@ https://edu.goorm.io/lecture/332/todo-%EC%95%B1%EC%9D%84-%EC%A7%81%EC%A0%91-%EB%
 2. [https://hyunseob.github.io/2016/04/03/webpack-practical-guide/](https://hyunseob.github.io/2016/04/03/webpack-practical-guide/) -DailyEngineering 블로그  
 3. [http://d2.naver.com/helloworld/0239818](http://d2.naver.com/helloworld/0239818) -NAVER_D2  
 
+## [codewars](https://www.codewars.com/) -(알고리즘)  
+
+* #### github
+1. https://github.com/js-jsm/dsa  
 
 - - -
 - - -
