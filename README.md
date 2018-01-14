@@ -70,7 +70,7 @@
 2018_01_10 - https://opentutorials.org/course/3086/18333 -수업을 마치며  
 
 #### JavaScript_1 (완료)  
-2018_01_10 - https://opentutorials.org/course/3085 -WEB2_JavaScript  
+2018_01_10 - https://opentutorials.org/course/3085 -WEB2_JavaScript  
 2018_01_11 - https://opentutorials.org/course/3085/18883 -함수의 활용  
 2018_01_14 - https://opentutorials.org/course/3085/18888 -수업을 마치며  
 
