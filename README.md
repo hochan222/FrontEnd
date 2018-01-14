@@ -48,6 +48,8 @@
 
 #### HTML  
 2018_01_14 - http://tcpschool.com/html/intro - html intro  
+2018_01_14 - http://tcpschool.com/html/html_intro_elementStructure -elementStructure  
+
 
 
 ## [생활코딩](https://opentutorials.org/course/1)  진행사항
