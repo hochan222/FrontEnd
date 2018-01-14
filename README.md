@@ -42,6 +42,8 @@ https://github.com/js-jsm/dsa
 
 ## [Zerocho</>](https://www.zerocho.com/category/JavaScript) 진행사항  
 
+## [ko.khanacademy](https://ko.khanacademy.org/) -진행사항  
+
 ## [생활코딩](https://opentutorials.org/course/1)  진행사항
 
 #### Intro (완료)  
