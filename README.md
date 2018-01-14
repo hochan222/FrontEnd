@@ -71,7 +71,7 @@ https://github.com/js-jsm/dsa
 
 
 - - -
-## [Jquery]() 진행사항  
+## [Jquery](http://jquery.com/) 진행사항  
 * #### info
 1. [http://www.sqler.com/378488](http://www.sqler.com/378488)  
 2. [https://www.slideshare.net/yakuyaku/jquery-55915542](https://www.slideshare.net/yakuyaku/jquery-55915542) -slide  
