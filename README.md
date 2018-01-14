@@ -82,6 +82,7 @@ https://github.com/js-jsm/dsa
 1. [https://designmeme.github.io/ko/blog/write-sass-with-scss/](https://designmeme.github.io/ko/blog/write-sass-with-scss/) -sass보다 scss를 쓰는이유  
 2. [https://windtale.net/blog/why-i-choose-sass/](https://windtale.net/blog/why-i-choose-sass/) -내가 sass를 쓰는이유  
 3. [https://blog.l0gic.me/sass-1%EA%B0%95-css-preprocessor%EC%99%80-sass-%EC%86%8C%EA%B0%9C/](https://blog.l0gic.me/sass-1%EA%B0%95-css-preprocessor%EC%99%80-sass-%EC%86%8C%EA%B0%9C/) -sass/scss_소개  
+4. [http://monod.co.kr/Lecture/Graphic/Detail/Accepting?lectureId=61](http://monod.co.kr/Lecture/Graphic/Detail/Accepting?lectureId=61) -compass_basic_sass_lec  
 
 
 * #### Learn  
