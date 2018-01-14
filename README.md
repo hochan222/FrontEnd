@@ -209,6 +209,7 @@ https://github.com/js-jsm/dsa
 > [https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/][https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/] -프런트엔드 치트시트  
 > [http://tech.gitple.io/2017/11/30/gitple-techstack-frontend-md/](http://tech.gitple.io/2017/11/30/gitple-techstack-frontend-md/) -깃플 기술스택  
 > [http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C](http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C) - 메모리누수대책  
+>[https://risingstars.js.org/2017/en/](https://risingstars.js.org/2017/en/) - 2017_javascript_risingstars_정리  
 
 * #### 공식문서 번역 
 > [http://wikibook.co.kr/article/twitter-weekly-2015-41st/](http://wikibook.co.kr/article/twitter-weekly-2015-41st/) -Web 전반에걸친 정리  
