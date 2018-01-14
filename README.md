@@ -73,6 +73,7 @@ https://github.com/js-jsm/dsa
 - - -
 ## [Jquery](http://jquery.com/) 진행사항  
 * #### info
+0. [http://meshlabs.ghost.io/javascript-in-2017/](http://meshlabs.ghost.io/javascript-in-2017/) -about_Jquery&BR  
 1. [http://www.sqler.com/378488](http://www.sqler.com/378488)  
 2. [https://www.slideshare.net/yakuyaku/jquery-55915542](https://www.slideshare.net/yakuyaku/jquery-55915542) -slide  
 
