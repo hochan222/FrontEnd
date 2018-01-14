@@ -83,6 +83,8 @@ https://github.com/js-jsm/dsa
 2. [https://windtale.net/blog/why-i-choose-sass/](https://windtale.net/blog/why-i-choose-sass/) -내가 sass를 쓰는이유  
 3. [https://blog.l0gic.me/sass-1%EA%B0%95-css-preprocessor%EC%99%80-sass-%EC%86%8C%EA%B0%9C/](https://blog.l0gic.me/sass-1%EA%B0%95-css-preprocessor%EC%99%80-sass-%EC%86%8C%EA%B0%9C/) -sass/scss_소개  
 4. [http://monod.co.kr/Lecture/Graphic/Detail/Accepting?lectureId=61](http://monod.co.kr/Lecture/Graphic/Detail/Accepting?lectureId=61) -compass_존재  
+> [https://gist.github.com/yamoo9/bc066c56a90df746fb07](https://gist.github.com/yamoo9/bc066c56a90df746fb07) -_about_compass  
+> [https://trello.com/c/1UeeYEdy/10-compass-css-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC](https://trello.com/c/1UeeYEdy/10-compass-css-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC) -_about_compass  
 
 
 
