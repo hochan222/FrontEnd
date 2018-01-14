@@ -19,8 +19,9 @@
 2018-01-04_html_comments - https://www.w3schools.com/html/html_comments.asp  
 2018-01-07_html_filepaths - https://www.w3schools.com/html/html_filepaths.asp  
 2018-01-08_html_forms - https://www.w3schools.com/html/html_forms.asp  
+2018-01-14_html_form_elements - https://www.w3schools.com/html/html_form_elements.asp  
 
-다음 진행진도 -  https://www.w3schools.com/html/html_form_elements.asp  
+다음 진행진도 - https://www.w3schools.com/html/html_form_input_types.asp  
 
 ### About Css
 * [http://ko.learnlayout.com/toc.html](http://ko.learnlayout.com/toc.html) -css layout  
