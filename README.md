@@ -79,7 +79,7 @@ https://github.com/js-jsm/dsa
 
 ## [Sass](https://github.com/sass/sass) -진행사항  
 * #### info
-1.[https://designmeme.github.io/ko/blog/write-sass-with-scss/](https://designmeme.github.io/ko/blog/write-sass-with-scss/) -sass보다 scss를 쓰는이유
+1. [https://designmeme.github.io/ko/blog/write-sass-with-scss/](https://designmeme.github.io/ko/blog/write-sass-with-scss/) -sass보다 scss를 쓰는이유
 
 * #### Learn  
 1. [https://sass-guidelin.es/ko/](https://sass-guidelin.es/ko/) -공식가이드라인  
