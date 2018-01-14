@@ -176,7 +176,7 @@ https://github.com/js-jsm/dsa
 1. https://vallista.github.io/#/  
 
 ## [React](https://reactjs.org/) 진행사항 
-1. [velopert/react-tutorial-01-outdated.md](https://gist.github.com/velopert/d76e944e13b7b0a79ff5b3e60e1b54f4)  
+1. [velopert/react-tutorial-01-outdated.md](https://gist.github.com/velopert/d76e944e13b7b0a79ff5b3e60e1b54f4)  
 2. [g6ling react-native-tutorial-korean](https://www.gitbook.com/book/g6ling/react-native-tutorial-korean/details)  
 3. [안녕, 리액트(Hello, React)http://blog.gaerae.com/2016/04/hello-react.html](http://blog.gaerae.com/2016/04/hello-react.html)  
 4. [https://github.com/reactkr/learn-react-in-korean](https://github.com/reactkr/learn-react-in-korean)  
@@ -248,6 +248,8 @@ https://github.com/js-jsm/dsa
 > [http://tech.gitple.io/2017/11/30/gitple-techstack-frontend-md/](http://tech.gitple.io/2017/11/30/gitple-techstack-frontend-md/) -깃플 기술스택  
 > [http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C](http://itstory.tk/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98%EC%9D%98-4%EA%B0%80%EC%A7%80-%ED%98%95%ED%83%9C) - 메모리누수대책  
 >[https://risingstars.js.org/2017/en/](https://risingstars.js.org/2017/en/) - 2017_javascript_risingstars_정리  
+>[http://www.looah.com/article/view/2054](http://www.looah.com/article/view/2054) -2016에자바스크립트쓰기대화  
+
 
 * #### 공식문서 번역 
 > [http://wikibook.co.kr/article/twitter-weekly-2015-41st/](http://wikibook.co.kr/article/twitter-weekly-2015-41st/) -Web 전반에걸친 정리  
