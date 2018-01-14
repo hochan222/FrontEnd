@@ -81,7 +81,8 @@ https://github.com/js-jsm/dsa
 
 
 * #### learn
-0. [http://tcpschool.com/jquery/intro](http://tcpschool.com/jquery/intro) -tcpschool  
+1. [http://tcpschool.com/jquery/intro](http://tcpschool.com/jquery/intro) -tcpschool  
+2. [https://www.noupe.com/development/51-best-of-jquery-tutorials-and-examples.html](https://www.noupe.com/development/51-best-of-jquery-tutorials-and-examples.html) -51-best-of-jquery-tutorials-and-examples  
 
 
 * #### book  
