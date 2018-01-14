@@ -79,6 +79,8 @@ https://github.com/js-jsm/dsa
 
 * #### learn
 
+* #### book  
+1. [http://direct.co.kr/cs/jQuery.pdf](http://direct.co.kr/cs/jQuery.pdf) -pdf  
 
 ## [Bootstrap](http://bootstrapk.com/getting-started/) 진행사항  
 
@@ -96,7 +98,9 @@ https://github.com/js-jsm/dsa
 4. [http://monod.co.kr/Lecture/Graphic/Detail/Accepting?lectureId=61](http://monod.co.kr/Lecture/Graphic/Detail/Accepting?lectureId=61) -compass_존재  
 > [https://gist.github.com/yamoo9/bc066c56a90df746fb07](https://gist.github.com/yamoo9/bc066c56a90df746fb07) -_about_compass  
 > [https://trello.com/c/1UeeYEdy/10-compass-css-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC](https://trello.com/c/1UeeYEdy/10-compass-css-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC) -_about_compass  
-> [https://www.sitepoint.com/dont-use-compass-anymore/](https://www.sitepoint.com/dont-use-compass-anymore/) -why_i_dont_use_compass_anymore  
+> [http://www.compass-project.org/](http://www.compass-project.org/) -compass공식?사이트  
+>> [http://www.compass-project.org/docs/2.2.0/reference/pdf/compass-reference.pdf](http://www.compass-project.org/docs/2.2.0/reference/pdf/compass-reference.pdf) -pdf  
+> [https://www.sitepoint.com/dont-use-compass-anymore/](https://www.sitepoint.com/dont-use-compass-anymore/) -why_i_dont_use_compass_anymore  
 
 
 
