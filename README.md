@@ -77,7 +77,7 @@ https://github.com/js-jsm/dsa
 
 ## [codewars](https://www.codewars.com/) -(알고리즘)  
 
-## [Sass](https://github.com/sass/sass) -진행사항  
+## [Sass](http://sass-lang.com/) -진행사항  
 * #### info
 1. [https://designmeme.github.io/ko/blog/write-sass-with-scss/](https://designmeme.github.io/ko/blog/write-sass-with-scss/) -sass보다 scss를 쓰는이유
 
