@@ -86,6 +86,7 @@ https://github.com/js-jsm/dsa
 * #### Learn  
 1. [https://sass-guidelin.es/ko/](https://sass-guidelin.es/ko/) -공식가이드라인  
 2. [https://velopert.com/1712](https://velopert.com/1712) -velopert  
+3. [http://webruden.tistory.com/47](http://webruden.tistory.com/47) -blog_sass_lecture  
 
 
 ## [Webpack](https://webpack.js.org/) 진행사항  
