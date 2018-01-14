@@ -76,6 +76,7 @@
 
 #### JavaScript_언어  
 2018_01_10 - https://opentutorials.org/course/743 - JavaScript  
+2018_01_14 - https://opentutorials.org/course/743/4673 -변수  
 
 
 - - -
