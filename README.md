@@ -42,7 +42,9 @@ https://github.com/js-jsm/dsa
 
 ## [Zerocho</>](https://www.zerocho.com/category/JavaScript) 진행사항  
 
-## [ko.khanacademy](https://ko.khanacademy.org/) -진행사항  
+## [ko.khanacademy](https://ko.khanacademy.org/) 진행사항  
+
+## [tcpschool](http://tcpschool.com/) 진행사항  
 
 ## [생활코딩](https://opentutorials.org/course/1)  진행사항
 
@@ -79,6 +81,8 @@ https://github.com/js-jsm/dsa
 
 
 * #### learn
+0. [http://tcpschool.com/jquery/intro](http://tcpschool.com/jquery/intro) -tcpschool  
+
 
 * #### book  
 1. [http://direct.co.kr/cs/jQuery.pdf](http://direct.co.kr/cs/jQuery.pdf) -pdf  
