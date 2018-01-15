@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=34-FcDuJ5zc  - How to Make a Website with Code A
 2018_01_14 - https://opentutorials.org/course/3085/18888 -수업을 마치며  
 
 #### JavaScript_언어  
-2018_01_10 - https://opentutorials.org/course/743 - JavaScript  
+2018_01_10 - https://opentutorials.org/course/743 - JavaScript  
 2018_01_14 - https://opentutorials.org/course/743/4673 -변수  
 
 
