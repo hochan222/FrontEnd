@@ -205,8 +205,14 @@ https://cocle.kr/#top
 #### Tools & Library  
 1. [https://www.vobour.com/book/view/NmjuPr2amxubQ7tqr](https://www.vobour.com/book/view/NmjuPr2amxubQ7tqr) -ReactStoryBook  
 
-## [Weex](https://weex.apache.org/guide/) 진행사항  
+## [Weex](https://weex.apache.org/guide/) 진행사항  
 
+#### 실행환경
+https://github.com/Hanks10100/weex-vue-examples  
+
+#### Learn  
+1.[All examples are written in Weex and Vue.js, each of them works fine on both iOS, Android and web platform with the same source code.](https://hanks10100.github.io/weex-vue-examples/#component)  
+2.
 
 - - -
 - - -
