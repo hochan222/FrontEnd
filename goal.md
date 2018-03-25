@@ -15,6 +15,8 @@
 15.  Java script Framework 실무 경험 (Backbone.js, React.js, Vue.js 중 1개 이상)  
 16.  Node.js 실무 경험  
 17. 대용량 데이터 처리 경험자 (Hadoop, Spark, ES, Redis 등)  
+18.  CSS Pre-Processor 개발 환경에 능숙한 분 (Sass or Less)  
+
 
 - - -
 
