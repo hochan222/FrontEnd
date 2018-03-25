@@ -24,3 +24,4 @@
 2. GraphQL  
 3. Typescript  
 4. stackshare  
+5. Slack, Jira, Confluence  
