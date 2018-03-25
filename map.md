@@ -8,5 +8,6 @@ https://svgontheweb.com/ko/
 http://www.beautifulcss.com/archives/635  
 
 - - -
-maptales http://seoju.synology.me/maptales/  
+maptales http://seoju.synology.me/maptales/  
+핀온맵  
 
