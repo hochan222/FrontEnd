@@ -20,3 +20,4 @@
 
 1. 마이크로인터랙션  
 2. GraphQL  
+3. Typescript  
