@@ -16,6 +16,7 @@
 16.  Node.js 실무 경험  
 17. 대용량 데이터 처리 경험자 (Hadoop, Spark, ES, Redis 등)  
 18.  CSS Pre-Processor 개발 환경에 능숙한 분 (Sass or Less)  
+19. GIS 도메인 지식이 기반이 되는 서비스이며  
 
 
 - - -
