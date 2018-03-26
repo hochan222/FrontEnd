@@ -31,8 +31,9 @@ https://cocle.kr/#top
 
 ### About Css
 2018-03-26_CSS HOME - https://www.w3schools.com/css/default.asp  
+2018-03-26_css_syntax - https://www.w3schools.com/css/css_syntax.asp  
 
-다음 진도 -  
+다음 진도 -  https://www.w3schools.com/css/css_howto.asp  
 
 * [http://ko.learnlayout.com/toc.html](http://ko.learnlayout.com/toc.html) -css layout  
 * [http://martian36.tistory.com/category/CSS](http://martian36.tistory.com/category/CSS)  
