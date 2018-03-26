@@ -25,3 +25,6 @@
 3. Typescript  
 4. stackshare  
 5. Slack, Jira, Confluence  
+6. RxJS  
+7. Three.js  
+
