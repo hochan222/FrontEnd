@@ -27,7 +27,7 @@ https://cocle.kr/#top
 2018-01-14_html_form_elements - https://www.w3schools.com/html/html_form_elements.asp  
 2018-01-15_html_form_input_types - https://www.w3schools.com/html/html_form_input_types.asp  
 2018-03-26_html_sse - https://www.w3schools.com/html/html5_serversentevents.asp  
-- End -  
+-End-  
 
 ### About Css
 * [http://ko.learnlayout.com/toc.html](http://ko.learnlayout.com/toc.html) -css layout  
