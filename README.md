@@ -34,8 +34,9 @@ https://cocle.kr/#top
 2018-03-26_css_syntax - https://www.w3schools.com/css/css_syntax.asp  
 2018-03-27_css_text  - https://www.w3schools.com/css/css_text.asp  
 2018-03-28_css_link - https://www.w3schools.com/css/css_link.asp  
+2018-03-29_css_max-width - https://www.w3schools.com/css/css_max-width.asp  
 
-다음 진도 -  https://www.w3schools.com/css/css_list.asp  
+다음 진도 -  https://www.w3schools.com/css/css_positioning.asp  
 
 * [http://ko.learnlayout.com/toc.html](http://ko.learnlayout.com/toc.html) -css layout  
 * [http://martian36.tistory.com/category/CSS](http://martian36.tistory.com/category/CSS)  
