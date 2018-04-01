@@ -11,6 +11,16 @@ https://cocle.kr/#top
 # Primary goal  
 ![screensh](./img/html_css_js.PNG) 
 
+[면접스택] 진행사항  
+- - -
+### @Jbee님의 개발자 기술면접 준비 자료 repo: https://github.com/JaeYeopHan/Interview_Question_for_Beginner  
+
+### 프론트엔드 면접 문제 은행: https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean  
+
+### 프론트엔드 체크리스트: https://github.com/kesuskim/Front-End-Checklist  
+
+### 자바스크립트 인터뷰 가이드(진짜 좋음):https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d  
+
 [w3schools](https://www.w3schools.com/) 진행사항  
 ---------------------------
 ### About HTML
