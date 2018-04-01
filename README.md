@@ -21,6 +21,8 @@ https://cocle.kr/#top
 
 ### 자바스크립트 인터뷰 가이드(진짜 좋음):https://medium.com/dev-bits/a-perfect-guide-for-cracking-a-javascript-interview-a-developers-perspective-23a5c0fa4d0d  
 
+### https://github.com/nigayo/2018-front-end-curriculum  
+
 [w3schools](https://www.w3schools.com/) 진행사항  
 ---------------------------
 ### About HTML
