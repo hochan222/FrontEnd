@@ -11,5 +11,6 @@ https://plot.ly/javascript/choropleth-maps/ -지도ex
 
 - - -
 maptales http://seoju.synology.me/maptales/  
-핀온맵  
+핀온맵  
+www.wishbeen.co.kr)  
 
