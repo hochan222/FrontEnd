@@ -47,9 +47,10 @@ https://cocle.kr/#top
 2018-03-27_css_text  - https://www.w3schools.com/css/css_text.asp  
 2018-03-28_css_link - https://www.w3schools.com/css/css_link.asp  
 2018-03-29_css_max-width - https://www.w3schools.com/css/css_max-width.asp  
-2018-04-11_webpage_layout - https://www.w3schools.com/css/css_website_layout.asp  
+2018-04-10_webpage_layout - https://www.w3schools.com/css/css_website_layout.asp  
+2018-04-11_css3_backgrouds -https://www.w3schools.com/css/css3_backgrounds.asp  
 
-다음 진도 -  https://www.w3schools.com/css/css3_borders.asp  
+다음 진도 - https://www.w3schools.com/css/css3_colors.asp  
 
 * [http://ko.learnlayout.com/toc.html](http://ko.learnlayout.com/toc.html) -css layout  
 * [http://martian36.tistory.com/category/CSS](http://martian36.tistory.com/category/CSS)  
