@@ -49,8 +49,8 @@ https://cocle.kr/#top
 2018-03-29_css_max-width - https://www.w3schools.com/css/css_max-width.asp  
 2018-04-10_webpage_layout - https://www.w3schools.com/css/css_website_layout.asp  
 2018-04-11_css3_backgrouds -https://www.w3schools.com/css/css3_backgrounds.asp  
-
-다음 진도 - https://www.w3schools.com/css/css3_colors.asp  
+2018-04-15_css3_text_effects -https://www.w3schools.com/css/css3_text_effects.asp  
+다음 진도 - https://www.w3schools.com/css/css3_text_effects.asp  
 
 * [http://ko.learnlayout.com/toc.html](http://ko.learnlayout.com/toc.html) -css layout  
 * [http://martian36.tistory.com/category/CSS](http://martian36.tistory.com/category/CSS)  
