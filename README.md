@@ -108,7 +108,7 @@ https://cocle.kr/#top
 2018_01_10 - https://opentutorials.org/course/743 - JavaScript  
 2018_01_14 - https://opentutorials.org/course/743/4673 -변수  
 2018_01_15 - https://opentutorials.org/course/743/4729 -함수  
-
+2018_04_15 - https://opentutorials.org/course/743/6491 -배열  
 
 - - -
 ## [Jquery](http://jquery.com/) 진행사항  
