@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .nav{
+                margin : 10px;
+                width: 200px;
+                height: 50px;
+                border-radius: 3px;
+                background-color: rgba(255,0,0,0.3);
+                border-right: 10px solid lightskyblue; 
+
+                position: relative;
+                left:-100px;
+            }
+            .nav .nav_word{
+                text-align: center;
+                color: rgb(65, 49, 158);
+
+                position: absolute;
+                top: 5px;
+                left: 100px;
+            }
+            .nav:hover {
+                left: -20px;
+                transition: 1s ease;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="nav"><p class="nav_word">Home</p></div>
+        <div class="nav"><p class="nav_word">Activity</p></div>
+        <div class="nav"><p class="nav_word">About</p></div>
+    </body>
+</html>
