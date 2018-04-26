@@ -61,6 +61,7 @@ https://cocle.kr/#top
 ### About Javascript  
 2018-04-15_Javascript HOME - https://www.w3schools.com/js/default.asp  
 2018-04-15_Javascript_where_to - https://www.w3schools.com/js/js_whereto.asp  
+2018-04-26_js_comments -https://www.w3schools.com/js/js_comments.asp  
 
 ## [velopert](https://velopert.com/) 진행사항  
 
