@@ -1,0 +1,55 @@
+﻿@charset 'utf-8';
+
+// 0은 단위를 갖을 수 없다.
+$length: 0 !default;
+$sass-pink: hsl(330, 90%, 72%);
+$font-stack: (
+    'Helvetica',
+    'Arial',
+    sans-serif,
+);
+// $font-stack: ('Helvetica', 'Arial', sans-serif);
+$breakpoints: (
+    'small': (min-width: 767px),
+    'medium': (min-width: 992px),
+    'large': (min-width: 1200px),
+);
+
+.foo {
+     display: 'block';
+     overflow: 'hidden';
+     padding: '0 1em';
+}
+
+.foo2 {
+    background-image: url('/images/kittens.jpg');
+}
+
+.foo, .foo-bar,
+.baz {
+    $length: 42em;
+
+    display: block;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.foo3 {
+    color: red;
+
+    @include respond-to('medium') {
+        color: blue;
+    }
+}
+
+@mixin clearfix {
+    &::after {
+        content: '';
+        display: table;
+        clear: both;
+    }
+}
+@mixin size($width, $height: $width) {
+    width: $width;
+    height: $height;
+}
